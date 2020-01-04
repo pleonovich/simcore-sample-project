@@ -1,0 +1,4 @@
+/vendor/
+*.log.txt
+*_log.txt
+*.bak

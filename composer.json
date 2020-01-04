@@ -1,0 +1,27 @@
+{
+    "name": "pleonovich/simcore-sample-project",
+    "description": "simCore Sample project",
+    "type": "project",
+    "version": "1.0.0",
+    "keywords": [
+        "simcore",
+        "framework",
+        "php"
+    ],
+    "homepage": "https://github.com/pleonovich/simcore",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Pavel Leonovich",
+            "email": "leonovich.pavel@gmail.com",
+            "role": "lead"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/pleonovich/simcore/issues"
+    },
+    "require": {
+        "php": ">=5.0.0",
+        "pleonovich/simcore": "2.*"
+    }
+}
